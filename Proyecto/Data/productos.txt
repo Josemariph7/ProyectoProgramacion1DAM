@@ -1,0 +1,15 @@
+PROD013;Gel de Ducha;Gel de ducha suave y refrescante;3.49;PRODUCTOSUPERMERCADO
+PROD015;Mochila Deportiva;Mochila resistente y espaciosa para deportes;29.99;PRODUCTOSUPERMERCADO
+PROD002;Ibuprofeno;Medicamento antiinflamatorio;7.49;MEDICAMENTO
+PROD16;CocaCola;Bebida Isotonica;1.0;PRODUCTOSUPERMERCADO
+PROD010;Detergente;Detergente líquido para la limpieza;3.99;PRODUCTOSUPERMERCADO
+PROD001;Paracetamol;Medicamento para aliviar el dolor;5.99;MEDICAMENTO
+PROD011;Galletas de Chocolate;Deliciosas galletas con trozos de chocolate;2.99;PRODUCTOSUPERMERCADO
+PROD003;Amoxicilina;Antibiótico para tratar infecciones;12.99;MEDICAMENTO
+PROD005;Diclofenaco;Antiinflamatorio para dolores musculares;8.99;MEDICAMENTO
+PROD006;Pizza Margarita;Deliciosa pizza con salsa de tomate y queso;9.99;PLATO
+PROD009;Pan Integral;Pan saludable y rico en fibra;2.49;PRODUCTOSUPERMERCADO
+PROD007;Hamburguesa BBQ;Sabrosa hamburguesa con salsa BBQ;6.99;PLATO
+PROD008;Leche Entera;Leche fresca y nutritiva;1.99;PRODUCTOSUPERMERCADO
+PROD012;Cerveza IPA;Cerveza artesanal con un toque amargo;4.99;PRODUCTOSUPERMERCADO
+PROD014;Camiseta de Algodón;Camiseta de algodón de alta calidad;14.99;PRODUCTOSUPERMERCADO

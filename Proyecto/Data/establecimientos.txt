@@ -1,0 +1,14 @@
+EST002;Restaurante La Plaza;Avenida Libertad 456;RESTAURANTE
+EST008;Supermercado TodoBarato;Calle Mayor 654;SUPERMERCADO
+EST010;Restaurante El Sabor;Avenida Libertadores 987;RESTAURANTE
+EST011;Supermercado La GranCompra;Calle Principal 456;SUPERMERCADO
+EST009;Farmacia San Gabriel;Calle del Mar 321;FARMACIA
+EST007;Farmacia Santa María;Avenida Central 789;FARMACIA
+EST003;Supermercado El Ahorro;Calle Gran Vía 789;SUPERMERCADO
+EST013;Mercadona;Calle tres;SUPERMERCADO
+EST001;Farmacia San Juan;Calle Mayor 123;FARMACIA
+EST012;Burger King;Avenida de las Palmeras;RESTAURANTE
+EST005;Supermercado La Económica;Avenida Principal 654;SUPERMERCADO
+EST004;Farmacia San Martín;Calle Estrella 321;FARMACIA
+EST006;Restaurante El Rincón;Calle del Sol 987;RESTAURANTE
+EST014;LIDL;Calle Palomas;SUPERMERCADO

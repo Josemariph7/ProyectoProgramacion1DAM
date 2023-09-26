@@ -1,0 +1,13 @@
+USR005;Pedro López;Calle 456, Pueblo;pedro@example.com;999999999;password123;false
+USR008;Isabel Martínez;Avenida Principal, Pueblo;isabel@example.com;666666666;secret456;false
+USR003;Carlos Ramírez;Plaza Principal, Villa;carlos@example.com;555555555;securepass789;false
+USR007;David Rodríguez;Calle Mayor, Ciudad;david@example.com;333333333;password4567;false
+USR011;John Doe;Calle Principal, Ciudad;john.doe@example.com;123456789;password;false
+USR004;Laura Torres;Avenida 789, Ciudad;laura@example.com;111111111;secret1234;false
+USR001;Juan Pérez;Calle 123, Ciudad;juan@example.com;123456789;contraseña123;true
+USR006;Ana García;Plaza Mayor, Villa;ana@example.com;777777777;secure123;false
+Josemariph7;Jose;Hernan Cortes;josemariph7@hotmail.es;648115678;1234567654;true
+USR002;María Gómez;Avenida 456, Pueblo;maria@example.com;987654321;password456;false
+USR009;Javier Sánchez;Calle Principal, Villa;javier@example.com;222222222;password789;false
+USR010;Sofía Fernández;Avenida Mayor, Ciudad;sofia@example.com;444444444;securepass123;false
+Pedropm;Pedro;Calle la Laguna, Castuera;ppm@gmail.com;456654456;123452342;false
